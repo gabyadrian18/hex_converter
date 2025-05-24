@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/CLI-Easy--to--use-green">
   <img src="https://img.shields.io/badge/tests-passing-brightgreen">
   <img src="https://img.shields.io/badge/license-MIT-yellow">
+  <img src="https://img.shields.io/badge/version-1.0.1-blueviolet">
 </p>
 
 ---
