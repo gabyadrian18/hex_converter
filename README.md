@@ -58,7 +58,7 @@ Hex                   2A3F42B9          42B92A3F               B9423F2A
 1. **Clone the repo**
 
     ```bash
-    git clone https://github.com/yourusername/hex_converter.git
+    git clone https://github.com/gabyadrian18/hex_converter.git
     cd hex_converter
     ```
 
