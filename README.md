@@ -149,13 +149,13 @@ All contributions, issues and feature requests are welcome!
 
 ## ⚖️ License
 
-MIT License © [yourusername]
+MIT License ©gabyadrian18
 
 ---
 
 ## 🙏 Credits
 
-Made with ❤️ by Gabi (and ChatGPT for README style).  
+Made with ❤️ by Gabi / 
 Hex string conversions inspired by real-life debugging sessions.
 
 ---
